@@ -1,0 +1,74 @@
+site_name: Imagens Médicas
+
+plugins:
+  - search:
+      lang: 
+        - en
+        - pt
+theme:
+  font:
+    text: Roboto
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+  name: material
+  palette:
+    accent: cyan
+  icon:
+    repo: fontawesome/brands/git-alt
+
+
+nav:
+  - Home :
+    - O que são Imagens Biomédicas ?:  index.md
+    - Fundamentos Teóricos : fundamentos.md
+    - Disclaimer : Disclaimer.md
+  - Visão Computacional:
+    # - visao-computacional/index.md
+    - Visão Computacional: visao-computacional/visao-computacional.md
+
+  - Tutoriais:
+    - home : Tutoriais/index.md
+
+  - Imagens Biomédicas:
+    - Cursos : imagens-biomedicas/imagens-biomedicas.md
+
+  - Projetos Técnicos: 
+    - Projetos/Projetos.md
+
+  - Deep Learning:
+    - Cursos Importantes :  deep-learning/Cursos.md
+
+  - Datasets: 
+    - home : datasets/index.md
+    -  Diabetic Retinopathy  : datasets/DiabeticRetinopathy.md
+  
+  - Ferramentas :
+    - OpenCV : Ferramentas/OpenCV.md
+    - ITK : Ferramentas/itk.md
+    - SimpleITK : Ferramentas/simpleitk.md
+    - MONAI :  Ferramentas/monai.md
+    - VTK : Ferramentas/vtk.md
+    - Slicer : Ferramentas/slicer.md
+    - Girder : Ferramentas/Girder.md
+    - iMSTK : Ferramentas/iMSTK.md
+
+
+  - Redes Sociais :
+    - Nossas redes sociais :  redes-sociais/index.md
+
+extra:
+  version:
+    provider: mike
+  social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/opencvBrasil
+      name: OpenCVismo Brasil
+
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/r2qTpPfPEu
+      name: OpenCVismo Brasil
+
+
+  # repo_url: https://github.com/Grupo-OpenCV-BR/imagens-medicas
+  homepage: https://example.com
