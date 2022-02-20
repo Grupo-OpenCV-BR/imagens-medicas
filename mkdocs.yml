@@ -48,6 +48,8 @@ nav:
     - ITK : Ferramentas/itk.md
     - SimpleITK : Ferramentas/simpleitk.md
     - MONAI :  Ferramentas/monai.md
+    - TensorFlow : Ferramentas/tensorflow.md
+    - Pytorch : Ferramentas/Pytorch.md
     - VTK : Ferramentas/vtk.md
     - Slicer : Ferramentas/slicer.md
     - Girder : Ferramentas/Girder.md
