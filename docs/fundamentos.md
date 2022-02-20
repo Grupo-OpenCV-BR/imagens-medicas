@@ -23,4 +23,4 @@ Então a base é :
 
 ## Inglês 
 
-Aprenda a ler em inglês e procurar as coisas na língua do Tio Sam, pois tudo de mais novo e mais interessante estará nessa língua, mesmo sendo publicações brasileiras
+Aprenda a ler em inglês e procurar as coisas na língua do Tio Sam, pois tudo de mais novo e mais interessante estará nessa língua, mesmo sendo publicações brasileiras.
