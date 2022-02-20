@@ -23,6 +23,7 @@ nav:
     - O que são Imagens Biomédicas ?:  index.md
     - Fundamentos Teóricos : fundamentos.md
     - Disclaimer : Disclaimer.md
+    - Apendice :  apendice.md
   - Visão Computacional:
     # - visao-computacional/index.md
     - Visão Computacional: visao-computacional/visao-computacional.md
