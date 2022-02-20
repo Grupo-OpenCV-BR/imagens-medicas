@@ -40,7 +40,7 @@ nav:
     - Cursos Importantes :  deep-learning/Cursos.md
 
   - Datasets: 
-    # - home : datasets/index.md
+    - Home : datasets/index.md
     - Diabetic Retinopathy  : datasets/DiabeticRetinopathy.md
     - CVonline : datasets/CVonline.md
     - Glaucoma : datasets/Glaucoma.md
