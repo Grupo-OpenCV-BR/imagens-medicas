@@ -7,4 +7,4 @@
 OpenCV (Open Source Computer Vision Library) é uma biblioteca de software de visão computacional e aprendizado de máquina de código aberto. O OpenCV foi construído para fornecer uma infraestrutura comum para aplicativos de visão computacional e acelerar o uso da percepção da máquina nos produtos comerciais. Sendo um produto licenciado pelo BSD, o OpenCV torna mais fácil para as empresas utilizar e modificar o código.
 
 
-[MONAI - Medical Open Network for Artificial Intelligence](https://monai.io/)
+[OpenCV - Open Source Computer Vision Library](https://opencv.org/)
