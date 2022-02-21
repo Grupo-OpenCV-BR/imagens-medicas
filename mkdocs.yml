@@ -46,7 +46,8 @@ nav:
     - CVonline : datasets/CVonline.md
     - Glaucoma : datasets/Glaucoma.md
     - OpenMRI : datasets/OpenMRI.md
-  
+    - GranChallenge : datasets/Gran Challenge.md
+    - Academic Torrents :  datasets/Academic Torrents.md
   - Ferramentas :
     - OpenCV : Ferramentas/OpenCV.md
     - ITK : Ferramentas/itk.md
