@@ -34,9 +34,6 @@ nav:
   - Imagens Biomédicas:
     - Cursos : imagens-biomedicas/imagens-biomedicas.md
 
-  - Projetos Técnicos: 
-    - Projetos/Projetos.md
-
   - Deep Learning:
     - Cursos Importantes :  deep-learning/Cursos.md
 
@@ -60,7 +57,9 @@ nav:
     - Girder : Ferramentas/Girder.md
     - iMSTK : Ferramentas/iMSTK.md
 
-
+  - Projetos Técnicos: 
+    - Projetos/Projetos.md
+    
   - Redes Sociais :
     - Nossas redes sociais :  redes-sociais/index.md
 
