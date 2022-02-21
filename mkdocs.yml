@@ -59,7 +59,7 @@ nav:
 
   - Projetos Técnicos: 
     - Projetos/Projetos.md
-    
+
   - Redes Sociais :
     - Nossas redes sociais :  redes-sociais/index.md
 
@@ -76,5 +76,5 @@ extra:
       name: OpenCVismo Brasil
 
 
-  # repo_url: https://github.com/Grupo-OpenCV-BR/imagens-medicas
-  homepage: https://example.com
+  repo_url: https://github.com/Grupo-OpenCV-BR/imagens-medicas
+  homepage: https://grupo-opencv-br.github.io/imagens-medicas/
