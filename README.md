@@ -1,7 +1,17 @@
-﻿## Como contribuir
+﻿<center>
+<p>
+<h1><a href="https://t.me/opencvBrasil">[Grupo de OpenCV no Telegram]</a> </h1>
+</p>
+</center>
 
-- [1]
-- [2]
+## Como contribuir
+
+- Faça um fork para seu repositório pessoal.
+- Faça as alterações que deseja.
+- Faça uma pull request para o repositório principal.
+- Insira um print screen do que você fez.
+- Descreva caso quiser.
+- Aguarde, assim que possível será mergeado a branch principal, o deploy é automático.
 
 
 
