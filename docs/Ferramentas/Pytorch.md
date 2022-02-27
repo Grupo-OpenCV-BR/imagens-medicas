@@ -6,4 +6,4 @@
 
 Uma estrutura de aprendizado de máquina de código aberto que acelera o caminho da prototipagem de pesquisa à implantação de produção.
 
-[TensorFlow](https://www.tensorflow.org/)
+[Pytorch](https://pytorch.org/docs/stable/index.html)
