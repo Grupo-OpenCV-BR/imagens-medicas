@@ -63,6 +63,8 @@ nav:
   - Redes Sociais :
     - Nossas redes sociais :  redes-sociais/index.md
 
+  - Tutoriais e Dicas : https://grupo-opencv-br.github.io/tutoriais-tecnologia/
+
 extra:
   version:
     provider: mike
