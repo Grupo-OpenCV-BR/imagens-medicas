@@ -10,3 +10,8 @@
 - [First pass through Data w/ 3D ConvNet](https://www.kaggle.com/sentdex/first-pass-through-data-w-3d-convnet)
 
 <iframe width="1904" height="772" src="https://www.youtube.com/embed/KlffppN47lc?list=PLQVvvaa0QuDd5meH8cStO9cMi98tPT12_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Medium 
+
+- [Redes neurais convolucionais](https://medium.com/itau-data/redes-neurais-convolucionais-2206a089c715)
