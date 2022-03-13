@@ -47,6 +47,7 @@ nav:
     - Academic Torrents :  datasets/Academic Torrents.md
   - Ferramentas :
     - OpenCV : Ferramentas/OpenCV.md
+    - FAST : Ferrramentas/FAST.md
     - ITK : Ferramentas/itk.md
     - SimpleITK : Ferramentas/simpleitk.md
     - MONAI :  Ferramentas/monai.md
@@ -56,6 +57,8 @@ nav:
     - Slicer : Ferramentas/slicer.md
     - Girder : Ferramentas/Girder.md
     - iMSTK : Ferramentas/iMSTK.md
+    - SimpleElastix : Ferramentas/SimpleElastix.md
+
 
   - Projetos Técnicos: 
     - Projetos/Projetos.md
